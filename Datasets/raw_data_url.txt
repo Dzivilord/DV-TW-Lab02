@@ -1,3 +1,0 @@
-https://www.kaggle.com/datasets/taweilo/taiwan-air-quality-data-20162024/data
-Vì dataset nặng 800mb nên phiền thầy vào link, download file air_quality.csv ạ. 
-File này dùng để chạy file prediction models.ipynb, trong đó em sẽ có bước tiền xử lý, chọn thuộc tính và vẽ model dự đoán. 
