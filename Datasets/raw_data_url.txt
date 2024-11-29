@@ -1,0 +1,6 @@
+https://www.kaggle.com/datasets/taweilo/taiwan-air-quality-data-20162024/data
+
+- Vì dataset nặng 800mb nên phiền thầy truy cập vào đường dẫn, download file air_quality.csv rồi đặt vào folder dataset. 
+- Nhóm muốn trình bày phần tiền xử lý và chọn thuộc tính nên phải dung dataset gốc ạ. 
+Mong thầy thông cảm vì sự bất tiện này >_< !
+
